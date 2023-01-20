@@ -1,0 +1,2 @@
+py runOneMachine.py
+pause
