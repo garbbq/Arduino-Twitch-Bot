@@ -1,3 +1,6 @@
+This was a very quickly built and lazy project of mine, please don't judge me on this.
+
+
 I used an arduino uno, attach a relay switch to pin 4.
 
 run run.bat
